@@ -1,0 +1,1 @@
+docker run -p 18000:8000 tirol/django:whapp
